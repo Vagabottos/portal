@@ -1,0 +1,56 @@
+
+tiles:
+  - name: "Root: The Woodland Companion"
+    url: https://root.seiyria.com
+    img: logos/root.png
+    tags: [root]
+    
+  - name: "Root: The Clockwork Companion"
+    url: https://clockroot.seiyria.com
+    img: logos/clockroot.png
+    tags: [root]
+    
+  - name: "Woodland Warriors Leaderboard"
+    url: https://wwleaders.seiyria.com
+    img: logos/wwleaders.png
+    tags: [root]
+    
+  - name: "Rootvis"
+    url: https://rootvis.seiyria.com
+    img: logos/rootvis.png
+    tags: [root]
+
+  - name: "Vast: The Crystal Companion"
+    url: https://vast.seiyria.com
+    img: logos/vast.png
+    tags: [vast]
+    
+  - name: "Root Cards"
+    url: https://rootcards.seiyria.com
+    img: logos/rootcards.png
+    tags: [root]
+    
+  - name: "Vast Cards"
+    url: https://vastcards.seiyria.com
+    img: logos/vastcards.png
+    tags: [vast]
+    
+  - name: "Fort Cards"
+    url: https://fortcards.seiyria.com
+    img: logos/fortcards.png
+    tags: [fort]
+
+  - name: "Oath: The Chronicle Companion"
+    url: https://oath.seiyria.com
+    img: logos/oath.png
+    tags: [oath]
+
+  - name: "Oath Legacy"
+    url: https://oath.vision
+    img: logos/oathvision.png
+    tags: [oath]
+    
+  - name: "Oath Cards"
+    url: https://oathcards.seiyria.com
+    img: logos/oathcards.png
+    tags: [oath]

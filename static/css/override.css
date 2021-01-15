@@ -1,0 +1,48 @@
+
+:root {
+  --width: 270px;
+}
+
+@media screen and (min-width: 1020px) {
+  .tile-container {
+      width: 900px;
+  }
+}
+
+@media screen and (min-width: 1224px) {
+  .tile-container {
+      width: 1200px;
+  }
+}
+
+.tile-container {
+  min-width: calc(var(--width) + 16px);
+}
+
+.tile {
+  width: var(--width);
+  max-width: var(--width);
+  height: var(--width);
+
+  flex: 0 0 var(--width);
+}
+
+.tile-box {
+  width: var(--width);
+  max-width: var(--width);
+  height: 200px;
+  max-height: 200px;
+}
+
+.tile-title {
+  width: var(--width);
+  color: #fff;
+  text-shadow: -1px -1px 0 #000, 1px -1px 0 #000, -1px 1px 0 #000, 1px 1px 0 #000 !important;
+}
+
+.logo {
+  width: 270px;
+  height: 200px;
+  max-width: 270px;
+  max-height: 200px;
+}

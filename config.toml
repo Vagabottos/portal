@@ -1,0 +1,34 @@
+baseURL = "https://leder.seiyria.com/"
+languageCode = "en-us"
+title = "Unofficial Leder Apps"
+theme = "slate"
+
+[ params ]
+OpenLinksInNewWindow = true
+Favicon = "favicon.ico"
+BackgroundImages = [
+  "box/box-fort.webp",
+  "box/box-oath.webp",
+  "box/box-root.webp",
+  "box/box-vast.webp"
+]
+
+[[ params.nav ]]
+name = "fort"
+tag = "fort"
+icon = "fort-awesome"
+
+[[ params.nav ]]
+name = "oath"
+tag = "oath"
+icon = "flag"
+
+[[ params.nav ]]
+name = "root"
+tag = "root"
+icon = "leaf"
+
+[[ params.nav ]]
+name = "vast"
+tag = "vast"
+icon = "hourglass-half"
