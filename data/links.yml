@@ -19,16 +19,16 @@ tiles:
     url: https://rootvis.seiyria.com
     img: logos/rootvis.png
     tags: [root]
-
-  - name: "Vast: The Crystal Companion"
-    url: https://vast.seiyria.com
-    img: logos/vast.png
-    tags: [vast]
     
   - name: "Root Cards"
     url: https://rootcards.seiyria.com
     img: logos/rootcards.png
     tags: [root]
+
+  - name: "Vast: The Crystal Companion"
+    url: https://vast.seiyria.com
+    img: logos/vast.png
+    tags: [vast]
     
   - name: "Vast Cards"
     url: https://vastcards.seiyria.com
