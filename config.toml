@@ -1,6 +1,6 @@
 baseURL = "https://leder.seiyria.com/"
 languageCode = "en-us"
-title = "Unofficial Leder Apps"
+title = "Leder Community Resources"
 theme = "slate"
 
 [ params ]
@@ -32,3 +32,8 @@ icon = "leaf"
 name = "vast"
 tag = "vast"
 icon = "hourglass-half"
+
+[[ params.nav ]]
+name = "tts"
+tag = "tts"
+icon = "file"

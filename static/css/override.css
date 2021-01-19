@@ -34,10 +34,15 @@
   max-height: 200px;
 }
 
-.tile-title {
+.tile-title, .tile-creator {
   width: var(--width);
   color: #fff;
   text-shadow: -1px -1px 0 #000, 1px -1px 0 #000, -1px 1px 0 #000, 1px 1px 0 #000 !important;
+}
+
+.tile-creator {
+  font-size: 0.75rem;
+  font-style: italic;
 }
 
 .logo {

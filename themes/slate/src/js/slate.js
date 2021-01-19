@@ -20,7 +20,7 @@ var shuffle = new Shuffle(document.querySelector('.tile-container'), {
   group: shuffle.ALL_ITEMS,
   itemSelector: '.tile',
   gutterWidth: 16,
-  columnWidth: 188,
+  columnWidth: 270,
   buffer: 1,
   delimeter: ",",
   useTransforms: false,

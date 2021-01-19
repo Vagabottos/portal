@@ -3,54 +3,125 @@ tiles:
   - name: "Root: The Woodland Companion"
     url: https://root.seiyria.com
     img: logos/root.png
+    creator: Seiyria
     tags: [root]
     
   - name: "Root: The Clockwork Companion"
     url: https://clockroot.seiyria.com
     img: logos/clockroot.png
+    creator: Seiyria
     tags: [root]
     
   - name: "Woodland Warriors Leaderboard"
     url: https://wwleaders.seiyria.com
     img: logos/wwleaders.png
+    creator: Seiyria
     tags: [root]
     
   - name: "Rootvis"
     url: https://rootvis.seiyria.com
     img: logos/rootvis.png
+    creator: Seiyria
     tags: [root]
     
   - name: "Root Cards"
     url: https://rootcards.seiyria.com
     img: logos/rootcards.png
+    creator: Seiyria
     tags: [root]
+
+  - name: "Root Battle Mat"
+    url: https://steamcommunity.com/sharedfiles/filedetails/?id=2331426632
+    img: logos/rootdicemat.png
+    creator: AngryPony
+    tags: [root, tts]
+
+  - name: "Root +1 Draft Tool"
+    url: https://steamcommunity.com/sharedfiles/filedetails/?id=2197204025
+    img: logos/rootplusone.png
+    creator: MangoFeet
+    tags: [root, tts]
+
+  - name: "Mole Monger"
+    url: https://steamcommunity.com/sharedfiles/filedetails/?id=2366650442
+    img: logos/rootmolemonger.png
+    creator: Nevakanezah
+    tags: [root, tts]
+
+  - name: "Lizard Wizard"
+    url: https://steamcommunity.com/sharedfiles/filedetails/?id=2302408180
+    img: logos/rootlizardwizard.png
+    creator: Nevakanezah
+    tags: [root, tts]
+
+  - name: "Root +All Expansions"
+    url: https://steamcommunity.com/sharedfiles/filedetails/?id=1297678386
+    img: logos/rootmod.png
+    creator: McChew
+    tags: [root, tts]
+
+  - name: "Root +All Expansions (ENG/ITA)"
+    url: https://steamcommunity.com/sharedfiles/filedetails/?id=2213350227
+    img: logos/rootengita.png
+    creator: Dr. HaZaRd
+    tags: [root, tts]
 
   - name: "Vast: The Crystal Companion"
     url: https://vast.seiyria.com
     img: logos/vast.png
+    creator: Seiyria
     tags: [vast]
     
   - name: "Vast Cards"
     url: https://vastcards.seiyria.com
     img: logos/vastcards.png
+    creator: Seiyria
     tags: [vast]
+
+  - name: "Vast: The Crystal Caverns [TTS]"
+    url: https://steamcommunity.com/sharedfiles/filedetails/?id=668435867
+    creator: Alice XVI
+    img: logos/vasttcc.png
+    tags: [vast, tts]
+    
+  - name: "Vast: The Mysterious Manor [TTS]"
+    url: https://steamcommunity.com/sharedfiles/filedetails/?id=1226877155
+    creator: Alice XVI
+    img: logos/vasttmm.png
+    tags: [vast, tts]
     
   - name: "Fort Cards"
     url: https://fortcards.seiyria.com
     img: logos/fortcards.png
+    creator: Seiyria
     tags: [fort]
+
+  - name: "Fort [TTS]"
+    url: https://steamcommunity.com/sharedfiles/filedetails/?id=2179903361
+    img: logos/fort.png
+    creator: SkyJedi
+    tags: [fort, tts]
 
   - name: "Oath: The Chronicle Companion"
     url: https://oath.seiyria.com
     img: logos/oath.png
+    creator: Seiyria
     tags: [oath]
 
   - name: "Oath Legacy"
     url: https://oath.vision
     img: logos/oathvision.png
+    creator: Seiyria
     tags: [oath]
     
   - name: "Oath Cards"
     url: https://oathcards.seiyria.com
     img: logos/oathcards.png
+    creator: Seiyria
     tags: [oath]
+
+  - name: "Oath [TTS]"
+    url: https://steamcommunity.com/sharedfiles/filedetails/?id=1982113586
+    creator: AgentElrond
+    img: logos/oathtts.png
+    tags: [oath, tts]
