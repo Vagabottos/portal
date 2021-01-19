@@ -54,13 +54,13 @@ tiles:
     creator: Nevakanezah
     tags: [root, tts]
 
-  - name: "Root +All Expansions"
+  - name: "Root +All Expansions [TTS]"
     url: https://steamcommunity.com/sharedfiles/filedetails/?id=1297678386
     img: logos/rootmod.png
     creator: McChew
     tags: [root, tts]
 
-  - name: "Root +All Expansions (ENG/ITA)"
+  - name: "Root +All Expansions (ENG/ITA) [TTS]"
     url: https://steamcommunity.com/sharedfiles/filedetails/?id=2213350227
     img: logos/rootengita.png
     creator: Dr. HaZaRd
