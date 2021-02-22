@@ -108,6 +108,12 @@ tiles:
     creator: Seiyria
     tags: [oath]
 
+  - name: "Oath: The Clockprince Companion"
+    url: https://clockprince.seiyria.com
+    img: logos/clockprince.png
+    creator: Seiyria
+    tags: [oath]
+
   - name: "Oath Legacy"
     url: https://oath.vision
     img: logos/oathvision.png
