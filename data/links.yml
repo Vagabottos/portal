@@ -90,6 +90,12 @@ tiles:
     img: logos/vasttmm.png
     tags: [vast, tts]
     
+  - name: "Modular Vast: The Crystal Caverns [TTS]"
+    url: https://steamcommunity.com/sharedfiles/filedetails/?id=2413412252
+    creator: milda matilda
+    img: logos/modularvast.png
+    tags: [vast, tts]
+    
   - name: "Fort Cards"
     url: https://fortcards.seiyria.com
     img: logos/fortcards.png
