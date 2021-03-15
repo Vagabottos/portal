@@ -68,6 +68,12 @@ tiles:
 
   - name: "Vast: The Crystal Companion"
     url: https://vast.seiyria.com
+    img: logos/vasttcc2.png
+    creator: Seiyria
+    tags: [vast]
+
+  - name: "Vast: Cards & Boards"
+    url: https://vastcb.seiyria.com
     img: logos/vast.png
     creator: Seiyria
     tags: [vast]
