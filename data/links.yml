@@ -53,11 +53,35 @@ tiles:
     img: logos/rootlizardwizard.png
     creator: Nevakanezah
     tags: [root, tts]
+    
+  - name: "Koffin Keeper"
+    url: https://steamcommunity.com/sharedfiles/filedetails/?id=2373868841
+    img: logos/koffinkeeper.png
+    creator: Nevakanezah
+    tags: [root, tts]
+    
+  - name: "Mob Lobber"
+    url: https://steamcommunity.com/sharedfiles/filedetails/?id=2676414604
+    img: logos/moblobber.png
+    creator: Nevakanezah
+    tags: [root, tts]
+    
+  - name: "Mighty Multi-state Ruins"
+    url: https://steamcommunity.com/sharedfiles/filedetails/?id=2438728670
+    img: logos/multistateruins.png
+    creator: slugfacekillah
+    tags: [root, tts]
+    
+  - name: "Mini-Mood Manager"
+    url: https://steamcommunity.com/sharedfiles/filedetails/?id=2469622806
+    img: logos/moodmanager.png
+    creator: Ehss
+    tags: [root, tts]
 
-  - name: "Root +All Expansions [TTS]"
-    url: https://steamcommunity.com/sharedfiles/filedetails/?id=1297678386
-    img: logos/rootmod.png
-    creator: McChew
+  - name: "Root - Ultimate Collection"
+    url: https://steamcommunity.com/sharedfiles/filedetails/?id=2516434159
+    img: logos/rootultimate.png
+    creator: Ehss & slugfacekillah
     tags: [root, tts]
 
   - name: "Root +All Expansions (ENG/ITA) [TTS]"
