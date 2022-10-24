@@ -30,6 +30,12 @@ tiles:
     creator: Seiyria
     tags: [root]
 
+  - name: "Root Automated Setup"
+    url: https://ewendc.github.io/root-automated-setup/
+    img: logos/auset.jpg
+    creator: EwenDC
+    tags: [root]
+
   - name: "Root Battle Mat"
     url: https://steamcommunity.com/sharedfiles/filedetails/?id=2331426632
     img: logos/rootdicemat.png
@@ -56,31 +62,31 @@ tiles:
     
   - name: "Koffin Keeper"
     url: https://steamcommunity.com/sharedfiles/filedetails/?id=2373868841
-    img: logos/koffinkeeper.png
+    img: logos/koffinkeeper.jpg
     creator: Nevakanezah
     tags: [root, tts]
     
   - name: "Mob Lobber"
     url: https://steamcommunity.com/sharedfiles/filedetails/?id=2676414604
-    img: logos/moblobber.png
+    img: logos/moblobber.jpg
     creator: Nevakanezah
     tags: [root, tts]
     
   - name: "Mighty Multi-state Ruins"
     url: https://steamcommunity.com/sharedfiles/filedetails/?id=2438728670
-    img: logos/multistateruins.png
+    img: logos/multistateruins.jpg
     creator: slugfacekillah
     tags: [root, tts]
     
   - name: "Mini-Mood Manager"
     url: https://steamcommunity.com/sharedfiles/filedetails/?id=2469622806
-    img: logos/moodmanager.png
+    img: logos/moodmanager.jpg
     creator: Ehss
     tags: [root, tts]
 
   - name: "Root - Ultimate Collection"
     url: https://steamcommunity.com/sharedfiles/filedetails/?id=2516434159
-    img: logos/rootultimate.png
+    img: logos/rootultimate.jpg
     creator: Ehss & slugfacekillah
     tags: [root, tts]
 
